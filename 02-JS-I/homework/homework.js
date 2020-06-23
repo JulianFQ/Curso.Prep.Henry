@@ -88,7 +88,11 @@ function mayorQueCincuenta(num) {
   // Devuelve "true" si el argumento de la función "num" es mayor que cincuenta
   // De lo contrario, devuelve "false"
   // Tu código:
-  if (num>50) {return true;} else {return false;}
+  if (num>50) {
+    return true;
+  } else {
+      return false;
+    }
 }
 
 function obtenerResto(x, y) {
@@ -101,14 +105,21 @@ function esPar(num) {
   // Devuelve "true" si "num" es par
   // De lo contrario, devuelve "false"
   // Tu código:
-  if (num%2==0) {return true;} else {return false;}
+  if (num%2==0) {
+    return true;
+  } else {
+      return false;
+    }
 }
 
 function esImpar(num) {
   // Devuelve "true" si "num" es impar
   // De lo contrario, devuelve "false"
   // Tu código:
-  if (num%2==1) {return true;;} else {return false;}
+  if (num%2==1) {
+    return true;} else {
+      return false;
+    }
 }
   
 function elevarAlCuadrado(num) {
