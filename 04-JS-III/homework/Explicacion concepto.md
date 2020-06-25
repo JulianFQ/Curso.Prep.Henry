@@ -1,0 +1,3 @@
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+* Arrays:(Arreglo []), son una lista de elementos alcenados en una variable, puede ser cualquier tipo de dato(int, bool, function, str, etc.), cada uno tiene un indice asignado empezando desde 0.
